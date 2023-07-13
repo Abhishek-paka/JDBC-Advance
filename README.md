@@ -33,11 +33,11 @@ The project is structured as follows:
 
 The project demonstrates the following advanced queries:
 
-1. [Join Query](https://www.w3schools.com/mysql/mysql_join.asp): Performs a join operation between multiple tables to retrieve related data.
+1. [Join Query](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/): Performs a join operation between multiple tables to retrieve related data.
 
-2. [Aggregation Query](resources/aggregation_query.sql): Utilizes aggregate functions COUNT to calculate statistical information.
+2. [Aggregation Query](https://www.geeksforgeeks.org/aggregate-functions-in-sql/): Utilizes aggregate functions COUNT to calculate statistical information.
 
-3. [Subquery](resources/subquery.sql): Uses a subquery to retrieve data based on a nested query within the main query.
+3. [Subquery](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/): Uses a subquery to retrieve data based on a nested query within the main query.
 
 Feel free to explore and modify the code to experiment with different queries and database configurations.
 
@@ -45,7 +45,7 @@ Feel free to explore and modify the code to experiment with different queries an
 
 The project depends on the following:
 
-- Java Development Kit (JDK) version 1.1 or later but was excuted in version 17.0.2
+- Java Development Kit (JDK) version 1.1 or later but developed on version 17.0.2
 - JDBC driver for your specific database (included in the `lib/` directory).
 
 ## Contact 
