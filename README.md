@@ -33,7 +33,7 @@ The project is structured as follows:
 
 The project demonstrates the following advanced queries:
 
-1. [Join Query](resources/join_query.sql): Performs a join operation between multiple tables to retrieve related data.
+1. [Join Query](https://www.w3schools.com/mysql/mysql_join.asp): Performs a join operation between multiple tables to retrieve related data.
 
 2. [Aggregation Query](resources/aggregation_query.sql): Utilizes aggregate functions COUNT to calculate statistical information.
 
